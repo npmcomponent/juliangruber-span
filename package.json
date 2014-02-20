@@ -1,13 +1,13 @@
 {
-  "name": "span",
+  "name": "juliangruber-span",
+  "description": "Time span parsing utility",
   "version": "0.0.4",
-  "author": "Julian Gruber <julian@juliangruber.com>",
-  "repository": "git://github.com/juliangruber/span",
-  "devDependencies": {
-    "should": "*",
-    "mocha": "*"
-  },
-  "scripts": {
-    "test": "mocha"
-  }
+  "keywords": [
+    "time",
+    "span",
+    "date",
+    "parsing",
+    "formatting"
+  ],
+  "dependencies": {}
 }
